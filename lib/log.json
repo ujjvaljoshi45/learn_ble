@@ -1,0 +1,227 @@
+
+{
+"ScanResult": [
+{
+"device": {
+"remoteId": "7B:E1:0A:26:97:98",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+"txPowerLevel": 12,
+"appearance": null,
+"connectable": true,
+"manufacturerData": {
+"76": [16, 6, 56, 30, 146, 142, 43, 173]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -100,
+"timeStamp": "2024-09-04 12:55:44.787021"
+},
+{
+"device": {
+"remoteId": "30:86:62:C7:7E:97",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+"txPowerLevel": null,
+"appearance": null,
+"connectable": false,
+"manufacturerData": {
+"6": [1, 9, 32, 34, 19, 233, 193, 13, 4, 26, 112, 190, 104, 185, 151, 247, 104, 220, 219, 92, 33, 26, 170, 213, 220, 217, 160]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -78,
+"timeStamp": "2024-09-04 12:55:44.814195"
+},
+{
+"device": {
+"remoteId": "5B:0C:9F:6E:4E:8B",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+"txPowerLevel": null,
+"appearance": null,
+"connectable": false,
+"manufacturerData": {
+"6": [1, 9, 32, 2, 216, 223, 21, 15, 84, 120, 161, 236, 30, 211, 203, 243, 58, 88, 114, 241, 238, 208, 155, 16, 55, 54, 63]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -94,
+"timeStamp": "2024-09-04 12:55:44.824099"
+},
+{
+"device": {
+"remoteId": "50:41:33:09:B5:BE",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+"txPowerLevel": 12,
+"appearance": null,
+"connectable": true,
+"manufacturerData": {
+"76": [16, 5, 76, 28, 112, 219, 25]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -50,
+"timeStamp": "2024-09-04 12:55:44.839896"
+},
+{
+"device": {
+"remoteId": "46:36:23:9A:94:0C",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+"txPowerLevel": null,
+"appearance": null,
+"connectable": false,
+"manufacturerData": {
+"76": [9, 8, 19, 2, 192, 168, 1, 3, 27, 88, 22, 8, 0, 169, 27, 177, 9, 122, 59, 62]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -50,
+"timeStamp": "2024-09-04 12:55:44.849377"
+},
+{
+"device": {
+"remoteId": "48:BF:1D:E0:67:46",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+"txPowerLevel": null,
+"appearance": null,
+"connectable": false,
+"manufacturerData": {
+"76": [9, 8, 19, 187, 192, 168, 1, 33, 27, 88, 22, 8, 0, 153, 26, 151, 20, 149, 253, 38]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -95,
+"timeStamp": "2024-09-04 12:55:44.856765"
+},
+{
+"device": {
+"remoteId": "04:15:88:B0:08:8E",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+"txPowerLevel": null,
+"appearance": null,
+"connectable": false,
+"manufacturerData": {
+"6": [1, 15, 32, 34, 253, 188, 35, 213, 56, 121, 140, 127, 220, 152, 39, 151, 115, 182, 62, 179, 52, 206, 210, 187, 7, 254, 98]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -100,
+"timeStamp": "2024-09-04 12:55:44.863950"
+},
+{
+"device": {
+"remoteId": "21:E0:95:69:7A:83",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+"txPowerLevel": null,
+"appearance": null,
+"connectable": false,
+"manufacturerData": {
+"6": [1, 9, 32, 34, 60, 223, 192, 160, 84, 144, 169, 219, 87, 170, 200, 9, 77, 175, 172, 172, 189, 209, 175, 209, 128, 159, 223]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -85,
+"timeStamp": "2024-09-04 12:55:44.871591"
+},
+{
+"device": {
+"remoteId": "6E:5A:64:B3:D5:13",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+"txPowerLevel": null,
+"appearance": null,
+"connectable": true,
+"manufacturerData": {
+"76": [12, 14, 8, 158, 50, 70, 129, 229, 31, 196, 201, 42, 196, 120, 62, 138, 16, 6, 10, 29, 46, 95, 6, 40]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -96,
+"timeStamp": "2024-09-04 12:55:46.200290"
+},
+{
+"device": {
+"remoteId": "76:CC:D4:7B:1C:E0",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+"txPowerLevel": null,
+"appearance": null,
+"connectable": false,
+"manufacturerData": {
+"6": [1, 9, 32, 2, 36, 175, 124, 178, 78, 51, 78, 254, 104, 170, 39, 103, 53, 122, 184, 252, 141, 120, 146, 65, 3, 22, 44]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -94,
+"timeStamp": "2024-09-04 12:55:44.884710"
+},
+{
+"device": {
+"remoteId": "12:93:3B:53:6B:28",
+"platformName": "",
+"services": null
+},
+"advertisementData": {
+"advName": "",
+
+
+"txPowerLevel": 12,
+"appearance": null,
+"connectable": true,
+"manufacturerData": {
+"76": [16, 6, 34, 248, 203, 140, 97, 222, 64, 189]
+},
+"serviceData": {},
+"serviceUuids": []
+},
+"rssi": -87,
+"timeStamp": "2024-09-04 12:55:44.893538"
+}
+]
+}
